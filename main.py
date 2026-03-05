@@ -38,6 +38,7 @@ print("-----")
 print(chat_with_ai("what are the suggested mediacations"))   
 print("-----")
 print(chat_with_ai("please summarize what we just talked"))  
+print("-----")
 
 
 
